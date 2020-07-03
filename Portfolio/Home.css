@@ -5,6 +5,10 @@ background:linear-gradient(to right,yellow,green,red,blue);
 text-align:center;
 font-size:120%;
 }
+#social1{
+text-align:center;
+font-size:120%;
+}
 .rrr{
 display:none;
 }
@@ -118,6 +122,7 @@ font-variant:small-caps;
 font-size:80%;
 padding-right:0.5px;
 display:inline-block;
+width:70%;
 }
 
 footer{
@@ -222,6 +227,9 @@ li>ul>li{
 font-size:90%;
 }
 #social{
+font-size:160%
+}
+  #social1{
 font-size:160%
 }
 }

@@ -119,7 +119,7 @@ h1{
 text-align:right;
 color:#0ff0f0;
 font-variant:small-caps;
-font-size:80%;
+font-size:1.7em;
 padding-right:0.5px;
 display:inline-block;
 width:70%;
@@ -153,6 +153,7 @@ font-size:75%;
 
 h1{
 text-align:center;
+font-size:1.9em;
 }
 span{
 display:inline;

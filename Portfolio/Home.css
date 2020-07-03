@@ -59,7 +59,7 @@ left:0;
 nav>a{
 display:inline-block;
 padding:5px;
-margin:5px;
+margin:2px;
 text-align:center;
 font-size:1em;
 color:#000544;
@@ -115,7 +115,7 @@ h1{
 text-align:right;
 color:#0ff0f0;
 font-variant:small-caps;
-padding-right:2px;
+padding-right:1px;
 display:inline-block;
 }
 

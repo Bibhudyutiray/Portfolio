@@ -1,5 +1,5 @@
 body{
-background:linear-gradient(to right,yellow,green,red,blue);
+background:linear-gradient(to right,black,blue);
 }
 #social{
 text-align:center;
@@ -57,7 +57,7 @@ text-align:center;
 display:block;
 }
 .alwaysLeft{
-background:linear-gradient(to right,blue,red,green,yellow);
+background:linear-gradient(to right,blue,black);
 left:0;
 }
 nav>a{
